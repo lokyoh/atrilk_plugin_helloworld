@@ -3,3 +3,5 @@ docs: 一个ATRI-LK插件示例模板。 # 插件描述
 author: l_o_o_k # 作者
 version: 1.0.0 # 插件版本号
 repo: https://github.com/lokyoh/atrilk_plugin_helloworld # 插件的仓库地址
+type: 其他服务 # 插件种类，与 Service.ServiceType 的中文值一致
+framework: "0.25" # 基于哪个框架版本开发；单一版本号，必须加引号
